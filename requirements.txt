@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+chromadb
+pdfplumber
+unstructured
+unstructured[all-docs]
+fastembed
+pikepdf
+sentence-transformers
